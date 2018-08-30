@@ -1,0 +1,24 @@
+Date: Wed, 29 Aug 2018 21:01:08 GMT
+Content-Type: text/html; charset=utf-8
+Set-Cookie: __cfduid=d2acdfeb99e61f52f0b6929c8c820413a1535576466; expires=Thu, 29-Aug-19 21:01:06 GMT; path=/; domain=.biorxiv.org; HttpOnly
+Age: 0
+Cache-Control: no-cache, must-revalidate
+Cf-Railgun: 9c408317f1 0.48 1.516148 0030 e6be
+Content-Language: en
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Link: <https://www.biorxiv.org/search/cognition%20numresults%3A%7B%7D>; rel="canonical",<https://www.biorxiv.org/search/cognition%20numresults%3A%7B%7D>; rel="shortlink"
+Vary: Accept-Encoding
+Via: 1.1 varnish
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+X-Highwire-Sitecode: biorxiv
+X-Highwire-Smart-Code: biorxiv_production
+X-Varnish: 742325267
+X-Varnish-Cache: 
+X-Varnish-Ttl: 
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 4521f37629a61f9a-DFW
+Content-Encoding: gzip
